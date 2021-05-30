@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4bd2a82c2a826b15",
+        "id": "a5b2130dd763f452",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "laboratory/Enumeration.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -86,7 +86,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4bd2a82c2a826b15",
+  "active": "a5b2130dd763f452",
   "lastOpenFiles": [
     "laboratory/Enumeration.md",
     "Pasted image 20210530173214.png",
