@@ -6,7 +6,7 @@
 - Subject Alternative Name: DNS: git.laboratory.htb
 - 22/tcp open ssh OpenSSH 8.2p1 Ubuntu 4ubuntu0.1 (Ubuntu Linux; protocol 2.0)
 
-(![[Pasted image 20210530144941.png]])
+![[htb_write_ups/laboratory/Pasted image 20210530144941.png]]
 
 ## Docker
 
