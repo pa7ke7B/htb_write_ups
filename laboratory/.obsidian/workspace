@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "202f7ac9ef0832de",
+    "type": "split",
+    "children": [
+      {
+        "id": "e04bdac688b28bbe",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ad53c7e57ef4716",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a216f873ece4f12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1dce9beb037963c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "144d589f38f6efc5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f742317f909a9a77",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3be5c39f09a7800",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3d59a1d2480fe5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e04bdac688b28bbe",
+  "lastOpenFiles": [
+    "README.md",
+    "Pasted image 20210530144941.png",
+    "HTTP.Laboratory.htb.md",
+    "Helpful Links.md",
+    "gitlab.laboratory.htb.md",
+    "Enumeration.md",
+    "Resources.md",
+    "Untitled.md"
+  ]
+}
