@@ -2,7 +2,7 @@
 
 ## Version
 
-![[Pasted image 20210530145505.png]]
+![](Pasted%20image%2020210530145505.png)
 
 - Released February 2020
 
@@ -10,7 +10,7 @@
 
 Link: [Vulnerability Write-Up](https://hackerone.com/reports/827052)
 
-![[Pasted image 20210530145754.png]]
+![](Pasted%20image%2020210530145754.png)
 
 ## Secret Key
 

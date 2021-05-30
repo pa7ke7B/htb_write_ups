@@ -1,6 +1,6 @@
 # HTTP.laboratory.htb
 
-![[Pasted image 20210530145251.png]]
+![](Pasted%20image%2020210530145251.png)
 
 ## Users
 
