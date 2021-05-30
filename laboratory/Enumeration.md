@@ -14,3 +14,8 @@
 ![[Pasted image 20210530145136.png]]
 
 ![[../Pasted image 20210530173214.png]]
+
+![[Pasted image 20210530173405.png]]
+
+![[../Pasted image 20210530173751.png]]
+
