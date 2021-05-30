@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 326
   },
   "right": {
     "id": "60f045f3976d7365",
@@ -89,6 +89,9 @@
   "active": "4bd2a82c2a826b15",
   "lastOpenFiles": [
     "laboratory/Enumeration.md",
+    "laboratory/imgs/Pasted image 20210530144941.png",
+    "laboratory/imgs/Pasted image 20210530145119.png",
+    "laboratory/imgs/Pasted image 20210530145754.png",
     "laboratory/Pasted image 20210530144941.png",
     "laboratory/gitlab.laboratory.htb.md",
     "laboratory/Helpful Links.md"
