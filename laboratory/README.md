@@ -10,7 +10,7 @@ IP Address: 10.10.10.216
 
 - Unable to establish a reverse shell to https://git.laboratory.htb. 
 
-Steps to recreate issue:
+### Steps to recreate issue:
 1. Start up the docker instance of gitlab
 2. Once inside gitlab bash, run command to open up gitlab-rails shell
 3. Run Deserialize Payload to get access token to https://git.laboratory.htb/users/sign_in
